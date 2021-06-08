@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaziHuq
 - 👀 I’m interested in Web Development (Full Stack)
 - 🌱 I’m currently learning Front-end and Back-end development
-- 💞️ I’m looking to collaborate on Senior Web Developer/IT client/IT recruiter
+- 💞️ I’m looking forward to collaborating with Senior Web Developer/IT client/IT recruiter
 - 📫 How to reach me 
 -> kazisafayat.huq321@gmail.com
 -> linkedin.com/in/kazi-huq
